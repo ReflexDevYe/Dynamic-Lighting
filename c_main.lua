@@ -743,3 +743,6 @@ function funcTable.forceStop()
 	end
 	return not shaderTable.isStarted
 end
+
+-- Client side funções: Ren1172
+-- Client side functions: Ren1172
