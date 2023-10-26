@@ -1,8 +1,6 @@
--------------------------------------
---Resource: Shader Dynamic lights  --
---Author: Ren712                   --
---Contact: knoblauch700@o2.pl      --
--------------------------------------
+------------------------------------- Atualizado 26.10.23
+Update 26.10.23
+Corrigido BUG das texturas.
 
 shaderTable = { worldShader = {} , smVersion = 0 , isStarted = false , isTimeOut = false, isError = false, isConfigChanged = false }
 lightTable = { inputLights = {} , outputLights = {} , thisLight = 0 , isInNrChanged = false, isInValChanged = false }
